@@ -34,7 +34,7 @@ How to Run -
 Simply open the index.html file in a web browser, and the calculator will be ready to use.
 
 
-Author
+Author - 
 Sumit Khandegar
 
 Feel free to customize, enhance, or modify the code according to your preferences or requirements. If you have any questions or suggestions, please contact the author.
